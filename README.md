@@ -1,6 +1,3 @@
-- Repository: akadamboy
-+ README.md
----------------------------------------------------
 
 
 ✅ **Stats light mode:**
