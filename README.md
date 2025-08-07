@@ -1,18 +1,7 @@
 
-<div align="center"> 
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=akadamboy&theme=cobalt&date_format=M%20j%2C%20Y)](https://git.io/streak-stats) 
-  
-</div>
-<br>
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akadamboy&layout=compact&theme=tokyonight)
-  
-</div>
 
 
-<h1 align="center">Hey there! 👋 I'm Abhijith (aka Damboy)</h1>
+<h1 align="center">Hey there! 👋 I'm Abhijith</h1>
 
 <p align="center">
   🔥 Self-taught developer | 🧠 Lifelong learner | 💻 Tech addict | 🎯 On a mission to build dope things
@@ -36,7 +25,7 @@
 
 ---
 
-### 🚀 My Favourite Builds
+<!-- ### 🚀 My Favourite Builds
 
 | Project Name | Tech Used | Description |
 |-------------|-----------|-------------|
@@ -47,36 +36,38 @@
 
 🛠️ *Check pinned repos for more!*
 
----
+--- -->
 
 ### 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akadamboy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akadamboy&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
+<div align="center"> 
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=akadamboy&theme=cobalt&date_format=M%20j%2C%20Y)](https://git.io/streak-stats) 
+  
+</div>
+<br>
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akadamboy&layout=compact&theme=tokyonight)
+  
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akadamboy&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</p>
 
 ---
 
 ### 🌍 Let's Connect
 
 <p align="center">
-  <a href="mailto:shebinmohan995@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/akadamboy"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abhijith.mampara@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abhijith-b-ab7133223"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/akadamboy"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-coming_soon-informational?style=for-the-badge"/></a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/Portfolio-coming_soon-informational?style=for-the-badge"/></a> -->
 </p>
 
 ---
 
-### 💡 Fun Fact
+<!-- ### 💡 Fun Fact
 
-> “I write code that works. Then I make it sexy.”
+ > “I write code that works. Then I make it sexy.” -->
 
