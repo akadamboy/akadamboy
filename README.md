@@ -49,7 +49,8 @@
 <br>
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akadamboy&layout=compact&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akadamboy&layout=compact&theme=tokyonight&count_private=true&cache_seconds=3600)
+
   
 </div>
 
