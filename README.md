@@ -4,6 +4,7 @@
 <h1 align="center">Hey there! 👋 I'm Abhijith</h1>
 
  <p align="center">
+  🎯 On a mission to build dope things
 <!--  🔥 Self-taught developer | 🧠 Lifelong learner | 💻 Tech addict | 🎯 On a mission to build dope things --!>
 </p>
 
